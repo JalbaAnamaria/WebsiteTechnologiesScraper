@@ -1,0 +1,4509 @@
+[
+  {
+    "domain": "jcmobilecigars.com",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "squarespace.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "somalidisablesupport.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "szentkristofudvarhaz.hu",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "google-analytics.com/analytics.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "disneystore.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Cloudflare",
+        "proofs": [
+          "cloudflareinsights.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "chavchavadze-m2-41-tbilisi.booked.net",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "trs-energycontrol.de",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "xn--kleoghvidevareservice-qfc.dk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor/assets/"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "231selfstorage.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "globalrn.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "cytofastmed.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "google-analytics.com/analytics.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "5starremoval.weebly.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "gutendorf.ru",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce",
+          "wc-ajax",
+          "woocommerce/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "katesworldtravel.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "3xd.co.uk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Foundation",
+        "proofs": [
+          "foundation.min.css"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "gapconstructionwi.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "imgs.co.jp",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "clotting-guide.online",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "React",
+        "proofs": [
+          "react-dom"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "38inspect.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "newbeaverborough.org",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "largsbaychiropractic.com.au",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "rsthealthcare.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "doringpoort.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "fsbwyoming.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "msc-manching.de",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "sgsextremaratio.it",
+    "detectedTechnologies": [
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Nuxt.js",
+        "proofs": [
+          "window.__NUXT__",
+          "/_nuxt/"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "TYPO3",
+        "proofs": [
+          "typo3",
+          "TYPO3"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Three.js",
+        "proofs": [
+          "THREE."
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "amourfinder.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "lojatatical.com.br",
+    "detectedTechnologies": [
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Magento",
+        "proofs": [
+          "Magento_",
+          "mage/cookies",
+          "Magento_Ui"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "jobresourcecentre.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "ferienwohnung-kastell.de",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "253media.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "GTM-"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Webflow",
+        "proofs": [
+          "data-wf-site"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.gstatic.com"
+        ],
+        "confidence": "LOW"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "velvety.eu",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "doortodoororganics.com",
+    "detectedTechnologies": [
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "cdnjs.cloudflare.com/ajax/libs/font-awesome"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "kentpropertyrenovations.co.uk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.gstatic.com"
+        ],
+        "confidence": "LOW"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "TYPO3",
+        "proofs": [
+          "typo3",
+          "TYPO3"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Three.js",
+        "proofs": [
+          "THREE."
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "fisherinvestments.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "rionecontrastanga.net",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "stwannas.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "familybroker.cz",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "genesisny.net",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "google-analytics.com/analytics.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "5w.design",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "huberautomotive.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "centreconsiliereavort.ro",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "infoaboutnetwork.com",
+    "detectedTechnologies": [
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "11853prospecthill.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Cloudflare",
+        "proofs": [
+          "cloudflareinsights.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "passwordstore.it",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "avocatalinamanciu.ro",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "abcdpinturas.com.br",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "dssfla.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.gstatic.com"
+        ],
+        "confidence": "LOW"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "weducars.co.za",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce",
+          "wc-ajax",
+          "woocommerce/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "4stonebuildings.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "maniaupiekszania.pl",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "sprucemeadowsmd.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "natedea.co.uk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha",
+          "grecaptcha"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Three.js",
+        "proofs": [
+          "THREE."
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "loizillon.com",
+    "detectedTechnologies": [
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css",
+          "cdnjs.cloudflare.com/ajax/libs/font-awesome"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "haus-muehlenfeld-pommerby.de",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "arenaskolor.se",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "boken.ch",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Matomo",
+        "proofs": [
+          "matomo.js",
+          "_paq.push",
+          "matomo.php"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "365outsource.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "aida-cruises.at",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "lets.gr",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "skywayrestaurants.net",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "2020wealthadvisory.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Cloudflare",
+        "proofs": [
+          "cloudflareinsights.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "hnafirm.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "itsolutions24.pl",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "aaice.net",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "mehmetefendimacedonia.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "laplumedelisibilite.fr",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "code.jquery.com/jquery"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "2ldm.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "westchesterpointechiro.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Matomo",
+        "proofs": [
+          "matomo.js",
+          "_paq.push",
+          "matomo.php"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "cei-expertises.fr",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "React",
+        "proofs": [
+          "react-dom"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "seringa-safaris.com",
+    "detectedTechnologies": [
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Joomla",
+        "proofs": [
+          "Joomla!",
+          "/media/system/js/",
+          "/components/com_"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "1planettechnologies.weebly.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "premierhomeremodeling.net",
+    "detectedTechnologies": [
+      {
+        "name": "Next.js",
+        "proofs": [
+          "/_next/",
+          "_NEXT_DATA_",
+          "next/static"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "bas-ingenieria.cl",
+    "detectedTechnologies": [
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "fontawesome-free/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "unnames.com",
+    "detectedTechnologies": [
+      {
+        "name": "Shopify",
+        "proofs": [
+          "cdn.shopify.com",
+          "Shopify.theme"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "code.jquery.com/jquery"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "handycars.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "gtag('config'"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Matomo",
+        "proofs": [
+          "matomo.js",
+          "_paq.push",
+          "matomo.php"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "antikebau.de",
+    "detectedTechnologies": [
+      {
+        "name": "TYPO3",
+        "proofs": [
+          "typo3",
+          "TYPO3"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "3strandschurch.org",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "alabamabuildingcontractor.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "resourceservicesolutions.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "code.jquery.com/jquery"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "skywardspeech.com.au",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "GSAP",
+        "proofs": [
+          "gsap.js"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "sevecoitalia.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "ASP.NET",
+        "proofs": [
+          "__VIEWSTATE"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "nielsbirk.dk",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "phucankhanggroup.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "GSAP",
+        "proofs": [
+          "gsap.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "ASP.NET",
+        "proofs": [
+          "__VIEWSTATE",
+          "__EVENTVALIDATION"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "roccofortehotels.cn",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "GTM-"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "europeaninns.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "massageforworldpeace.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "cultivateventures.co.nz",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "radxmobile.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "2-com.net",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "3bsexcavating.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "cdnjs.cloudflare.com/ajax/libs/font-awesome"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "weissbauchpapageien.de",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "959marine.com",
+    "detectedTechnologies": [
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "broganlmt.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "juanmunozhomesmart.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "buchhaltungsservice-koenig.de",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "solvos.nl",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "261welfarefund.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "disinfestazioniepiscine.it",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "lscms.org",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "3dwealthadvisory.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Three.js",
+        "proofs": [
+          "three.min.js",
+          "THREE."
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "kande-hoikuen.ed.jp",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "orifoodsco.com",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "deerfieldbeachautomall.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "insieme.stanford.edu",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "cdnjs.cloudflare.com/ajax/libs/font-awesome"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "layer7innovations.ca",
+    "detectedTechnologies": [
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "makpharma-eg.com",
+    "detectedTechnologies": [
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "grecaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "ejc-courtage-assurances.fr",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "ferrateoxidant.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "oakwell.vet",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "mysterion.hr",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha",
+          "grecaptcha"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "lorenz-baumarkt.de",
+    "detectedTechnologies": [
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "eclairage-solaire-occitanie.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "cmc01village.com",
+    "detectedTechnologies": [
+      {
+        "name": "Webflow",
+        "proofs": [
+          "webflow.css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "dorpsbelangen.nu",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "evelynanders.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "domekvefaru.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "GTM-"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.gstatic.com"
+        ],
+        "confidence": "LOW"
+      }
+    ]
+  },
+  {
+    "domain": "sdmdjentertainment.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "ideenhunger.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Webflow",
+        "proofs": [
+          "data-wf-site",
+          "webflow.css"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "GSAP",
+        "proofs": [
+          "gsap.min.js",
+          "gsap.to("
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "jenniferbacksteininteriors.com",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "elcolegiocongresosyrestaurante.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "northshoremacnut.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "powercleaning.services",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "stoperbis.pl",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "google-analytics.com/analytics.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "gitesducharmois.fr",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "allegrocreditbeta.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "cdnjs.cloudflare.com/ajax/libs/font-awesome"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "hoffmaninstitute.co.uk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce",
+          "wc-ajax",
+          "woocommerce/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "a3sec.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "concrete-fitness.edan.io",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "nicholsonchiro.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.gstatic.com"
+        ],
+        "confidence": "LOW"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Cloudflare",
+        "proofs": [
+          "cloudflareinsights.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "la-residenza-del-principe-rome-it.booked.net",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "jonesbuickgmc.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "GTM-"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Cloudflare",
+        "proofs": [
+          "cloudflareinsights.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "xn--jobvrkstedet-9cb.nu",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "appelpsychotherapy.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "brucebournesold.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "pcb-cpb.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "chiantifiorentino.it",
+    "detectedTechnologies": [
+      {
+        "name": "Bootstrap",
+        "proofs": [
+          "bootstrap.min.css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "11thhourracing.org",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "miratrade.com.tr",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "freo.com.au",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "fluxar.com.ar",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "redpants.jp",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "bata.edu.hu",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "3-energie-klaas.de",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "labdemo.com",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "davidloeppke.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "koniczynka.info.pl",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce",
+          "wc-ajax",
+          "woocommerce/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "footasylum.com",
+    "detectedTechnologies": [
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "GTM-"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "2agateway.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "ledestjernenstu.dk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "1stlocksheathscouts.org.uk",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "tamcconstruction.net",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "abbikadabbisbakingco.com",
+    "detectedTechnologies": [
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "herbalwise.ie",
+    "detectedTechnologies": [
+      {
+        "name": "Shopify",
+        "proofs": [
+          "cdn.shopify.com",
+          "Shopify.theme"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "deepseass.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "needaphysio.com",
+    "detectedTechnologies": [
+      {
+        "name": "React",
+        "proofs": [
+          "react.production.min.js",
+          "react-dom"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Wix",
+        "proofs": [
+          "wixstatic.com",
+          "static.wixstatic.com"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Laravel",
+        "proofs": [
+          "XSRF-TOKEN"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Django",
+        "proofs": [
+          "csrftoken"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Alpine.js",
+        "proofs": [
+          "x-data"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "thomasrosenbaum.com",
+    "detectedTechnologies": [
+      {
+        "name": "Squarespace",
+        "proofs": [
+          "static1.squarespace.com",
+          "squarespace.com"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "100wwcstlw.org",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "joseph-herber.business.site",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "arol.cl",
+    "detectedTechnologies": [
+    ]
+  },
+  {
+    "domain": "sindacatobadanti.it",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "lighthouseprc.org",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js",
+          "jquery.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js",
+          "gtag('config'"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Tag Manager",
+        "proofs": [
+          "googletagmanager.com/gtm.js",
+          "GTM-"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "5rcircleprocess.weebly.com",
+    "detectedTechnologies": [
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "reCAPTCHA",
+        "proofs": [
+          "google.com/recaptcha"
+        ],
+        "confidence": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "domain": "unitedveterinaryservice.com",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "joburgheritage.org.za",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-includes",
+          "wp-json",
+          "wp-emoji-release.min.js"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "jQuery",
+        "proofs": [
+          "jquery.min.js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Font Awesome",
+        "proofs": [
+          "font-awesome/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Google Analytics",
+        "proofs": [
+          "googletagmanager.com/gtag/js"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "Elementor",
+        "proofs": [
+          "elementor-frontend",
+          "elementor/assets/",
+          "elementor-icons"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css",
+          "fonts.gstatic.com"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "WooCommerce",
+        "proofs": [
+          "woocommerce",
+          "wc-ajax",
+          "woocommerce/assets/"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "bfnelson.it",
+    "detectedTechnologies": [
+      {
+        "name": "WordPress",
+        "proofs": [
+          "wp-content",
+          "wp-json"
+        ],
+        "confidence": "HIGH"
+      },
+      {
+        "name": "Google Fonts",
+        "proofs": [
+          "fonts.googleapis.com/css"
+        ],
+        "confidence": "MEDIUM"
+      },
+      {
+        "name": "GSAP",
+        "proofs": [
+          "gsap.min.js"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  },
+  {
+    "domain": "rivithead.com",
+    "detectedTechnologies": [
+      {
+        "name": "Matomo",
+        "proofs": [
+          "matomo.js",
+          "_paq.push",
+          "matomo.php"
+        ],
+        "confidence": "HIGH"
+      }
+    ]
+  }
+]
